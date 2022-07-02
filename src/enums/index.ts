@@ -1,4 +1,6 @@
 export enum Queues {
   log = 'log',
-  email = 'email'
+  email = 'email',
+  candidate = 'candidate',
+  vote = 'vote'
 }
